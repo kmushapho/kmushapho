@@ -1,20 +1,24 @@
 <div style="background-color: black; color: white; padding: 20px;">
+  
   # Hi there, I'm Kgothatso 👋
   
   ## Aspiring backend developer with QA expertise.
+
+  ## Github Stats:
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmushapho&show_icons=true)
   
-  ### Tools and languages
-  
   ## Languages:
+  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   
   ## Text Editors/IDEs:
+  
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
   
+  ## Language Stats:
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmushapho)
   
