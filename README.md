@@ -1,6 +1,9 @@
 # Hi there, I'm Kgothatso 👋
 
-## Aspiring backend developer with a strong background in QA expertise.
+## Aspiring backend developer with QA expertise.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmushapho&show_icons=true)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmushapho)
 
