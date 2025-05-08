@@ -10,12 +10,11 @@
   
   ## Languages:
   
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/github/languages/top/yourusername/yourrepository?color=yellow&logo=javascript)
-  ![CSS](https://img.shields.io/github/languages/top/yourusername/yourrepository?color=blue&logo=css3)
-  ![HTML](https://img.shields.io/github/languages/top/yourusername/yourrepository?color=orange&logo=html5)
-
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black)
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=black)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-000000)
+  ![CSS](https://img.shields.io/badge/CSS-3-000000)
+  ![HTML](https://img.shields.io/badge/HTML-5-000000)
 
   
   
@@ -26,7 +25,9 @@
   
   ## Language Stats:
   
-  https://github-readme-stats.vercel.app/api/top-langs/?username=kmushapho
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmushapho&layout=compact&langs_count=10)
+
+  
   
   - 📫 How to reach me **kmushapho@gmail.com**
 
