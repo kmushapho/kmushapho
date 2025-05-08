@@ -12,6 +12,11 @@
   
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/github/languages/top/yourusername/yourrepository?color=yellow&logo=javascript)
+  ![CSS](https://img.shields.io/github/languages/top/yourusername/yourrepository?color=blue&logo=css3)
+  ![HTML](https://img.shields.io/github/languages/top/yourusername/yourrepository?color=orange&logo=html5)
+
+
   
   
   ## Text Editors/IDEs:
@@ -21,8 +26,7 @@
   
   ## Language Stats:
   
-  
-  
+  https://github-readme-stats.vercel.app/api/top-langs/?username=kmushapho
   
   - 📫 How to reach me **kmushapho@gmail.com**
 
